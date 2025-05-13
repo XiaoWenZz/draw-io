@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" version="27.0.3">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" version="27.0.4">
   <diagram name="第 1 页" id="Q7bsDSj4xhXIVwD-Ch1r">
-    <mxGraphModel dx="2466" dy="2033" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3807" dy="2740" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -567,7 +567,7 @@
         <mxCell id="YG4ow8o5gnvYlA8YRpoR-102" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;fillColor=none;strokeColor=default;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="-330" y="-35" width="460" height="305" as="geometry" />
         </mxCell>
-        <mxCell id="YG4ow8o5gnvYlA8YRpoR-79" value="客户端状态字典(省略中间序号客户端)" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;strokeColor=default;fontSize=18;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="YG4ow8o5gnvYlA8YRpoR-79" value="客户端修正参数字典(省略中间序号客户端)" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;strokeColor=default;fontSize=18;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="-295" y="21.39" width="400" height="230" as="geometry" />
         </mxCell>
         <mxCell id="YG4ow8o5gnvYlA8YRpoR-80" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" parent="YG4ow8o5gnvYlA8YRpoR-79" vertex="1">
@@ -583,7 +583,7 @@
             <mxRectangle width="134" height="67" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YG4ow8o5gnvYlA8YRpoR-83" value="&lt;b&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;模型参数字典&lt;/font&gt;&lt;/b&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" parent="YG4ow8o5gnvYlA8YRpoR-80" vertex="1">
+        <mxCell id="YG4ow8o5gnvYlA8YRpoR-83" value="&lt;b&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;修正参数字典&lt;/font&gt;&lt;/b&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" parent="YG4ow8o5gnvYlA8YRpoR-80" vertex="1">
           <mxGeometry x="267" width="133" height="67" as="geometry">
             <mxRectangle width="133" height="67" as="alternateBounds" />
           </mxGeometry>
